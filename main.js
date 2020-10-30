@@ -8,7 +8,7 @@ function plusSlides(n) {
 }
 
 function showSlides(n) {
-    if (n > slides.length) {
+    if (n >= slides.length) {
         index = 1;
     }
     if (n < 1) {
