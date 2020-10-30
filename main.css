@@ -26,6 +26,7 @@ body {
 .slides {
     position: relative;
     max-width: 500px;
+    z-index: 0;
 }
 img {
     max-width: 500px;
@@ -53,6 +54,7 @@ button:hover {
 }
 .desine {
     right: 0%;
+    z-index: 1;
 }
 .kaire {
     left: 0%;
