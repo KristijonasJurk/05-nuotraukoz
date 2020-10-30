@@ -48,6 +48,7 @@ button {
     background-color: transparent;
     border-radius: 25%;
     transition: 0.4s;
+    padding: 5px;
 }
 button:hover {
     background-color: rgb(216, 211, 211);
